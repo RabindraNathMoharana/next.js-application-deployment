@@ -1,0 +1,2 @@
+name: Deployment of next.js application
+on: ["push"]
